@@ -1,2 +1,5 @@
-# demo-repo
-demo repository for tisting
+# Git Practice
+
+Group: Group X
+
+This repository is used to practice Git fundamentals.
